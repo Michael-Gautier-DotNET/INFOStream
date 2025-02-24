@@ -1,2 +1,2 @@
-# gautier_rss_reader_ms_wpf
+# INFOStream by Gautier
  RSS Reader for Microsoft Windows
